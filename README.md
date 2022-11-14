@@ -8,6 +8,12 @@ features
    4. bands [delta- theta - alpha - beta -gamma]
 
 then in the second notebook we take signals about 21 sleeping person and apply extract features of it then apply classification to detect the stage of sleeping person then check the important features for each classifier 
+features :
+    1.std
+    2. zero cross 
+    3.entropy
+    4. Hjorth complexity
+
 
 classifciation 
    1.RandomForestRegressor
